@@ -35,12 +35,3 @@ To run this project locally, follow these steps:
 3.  Open the `index.html` file in your favorite web browser.
 
 No special dependencies or installations are required.
-
-## AI Support Explanation
-
-This project was developed with the assistance of **Gemini**, a large language model from Google. Gemini provided the following support:
-
-* **Code Generation:** Generated the complete HTML, CSS, and JavaScript code based on a visual design prompt and functional requirements.
-* **Project Structuring:** Organized the code into separate, best-practice files (`index.html`, `style.css`, `script.js`).
-* **Documentation:** Created the content for this `README.md` file and the presentation slides.
-* **Deployment Guidance:** Provided clear, step-by-step instructions for deploying the application using GitHub Pages.
