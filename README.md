@@ -26,11 +26,11 @@ To run this project locally, follow these steps:
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/dzakyard/StudyTime.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd your-repository-name
+    cd StudyTime
     ```
 3.  Open the `index.html` file in your favorite web browser.
 
