@@ -9,7 +9,7 @@ StudyTime is a minimalist stopwatch built with fundamental web technologies. It 
 ## Technologies Used
 
 * **HTML5:** For the basic structure and content of the web page.
-* **CSS3:** For styling, layout (using Flexbox), and making the application responsive.
+* **CSS3:** For styling, and making the application responsive.
 * **JavaScript (ES6):** For all the core logic, including timer functionality, event handling, and DOM manipulation.
 
 ## Features
@@ -35,3 +35,9 @@ To run this project locally, follow these steps:
 3.  Open the `index.html` file in your favorite web browser.
 
 No special dependencies or installations are required.
+
+## Deployment Link
+
+```bash
+https://sudytime.netlify.app/
+```
