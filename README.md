@@ -38,6 +38,5 @@ No special dependencies or installations are required.
 
 ## Deployment Link
 
-```bash
 https://sudytime.netlify.app/
-```
+
